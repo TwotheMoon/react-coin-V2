@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/react-coin-v2/static/js/main.463c199d.js",
-    "index.html": "/react-coin-v2/index.html"
+    "main.js": "/static/js/main.106a4a7b.js",
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/js/main.463c199d.js"
+    "static/js/main.106a4a7b.js"
   ]
 }
